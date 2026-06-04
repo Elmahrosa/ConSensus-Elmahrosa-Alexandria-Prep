@@ -1,0 +1,67 @@
+{
+  "last_updated": "2026-06-04 (ELMAHROSA OS v2.1 Execution Layer fully activated with Select War Room, Customer Readiness Tracker, sprints, scoring, GitHub center, Oracle, priority matrix)",
+  "projects": [
+    {
+      "name": "ConSensus Elmahrosa Alexandria Preparation (and Event)",
+      "status": "Active",
+      "priority": "Critical",
+      "owner": "NEXUS (orchestration); SPIKE (tech delivery primary)",
+      "deadline": "M1 +7 days foundation; full event TBD 2026 (recommend founder lock Q3-Q4)",
+      "kpis": {
+        "registrations_target_14d": 150,
+        "registrations_target_30d": 250,
+        "high_value_confirmed": 8,
+        "mo_us_or_pilots": 3,
+        "docs_coverage": ">90%",
+        "demo_readiness": "v0.1 sandbox + 1 national DPI stub"
+      },
+      "risks": [
+        "Venue/date not locked",
+        "Ministerial response rates",
+        "TEOS testnet/demo credibility vs simulator"
+      ],
+      "last_milestone": "M0 Initialization complete — all agent artifacts produced",
+      "next_milestone": "M1 Foundation Live"
+    },
+    {
+      "name": "ELMAHROSA OS v2.0 Rollout & Governance",
+      "status": "Active",
+      "priority": "High",
+      "owner": "NEXUS",
+      "deadline": "Ongoing (skill installed, prompt persisted, first init executed)",
+      "kpis": {
+        "mode_adoption": "All Elmahrosa work in Mission Control format",
+        "memory_layers": "Updated every session",
+        "agent_kpi_tracking": "Measurable per agent"
+      },
+      "notes": "Canonical at C:\\Users\\aams1\\ELMAHROSA_OS_v2.0.md and ~/.grok/skills/elmahrosa-os/SKILL.md"
+    },
+    {
+      "name": "Anthropic Claude Partner Network (CPN) Full Partnership & Contractor Program",
+      "status": "Planned",
+      "priority": "Medium",
+      "owner": "NEXUS (oversight); SARA/JUNE (claims/comms)",
+      "deadline": "TBD (currently APPROVED ON PATH; Academy complete, CCAF pending)",
+      "kpis": {
+        "claims_compliance": "Zero incorrect public claims of partnership",
+        "hiring": "10 contractor seats (1 selected); compliant language in all outreach"
+      },
+      "notes": "See .claude/projects/.../project_elmahrosa.md and secure credentials tracker. Do not claim full partner status. 10 seats opening."
+    },
+    {
+      "name": "FOUNDER SCORECARD RECOVERY (Select Program)",
+      "status": "Active",
+      "priority": "Critical",
+      "owner": "NEXUS (overall); all agents aligned",
+      "deadline": "116 days remaining (target: move Select Progress from 10% to significantly higher, Certifications 1/10 \u2192 5+/10, Production Customers 0/2 \u2192 2/2, Customer Stories 0/1 \u2192 1/1, Risk HIGH \u2192 MEDIUM/LOW)",
+      "kpis": {
+        "select_progress": "10% \u2192 50%+",
+        "certifications": "1/10 \u2192 at least 5/10 (focus on DPI/gov/security certs)",
+        "production_customers": "0/2 \u2192 2 (via ConSensus pilots + TARA partners)",
+        "customer_stories": "0/1 \u2192 1 published (leverage first production customer)",
+        "risk_level": "HIGH \u2192 MEDIUM within 30 days, LOW by deadline"
+      },
+      "notes": "Founder input 2026-06-04. Integrate with ConSensus Elmahrosa Alexandria as primary vehicle for customers, stories, visibility, and partnerships that unlock certs. Use existing TARA 10 partners list. Recovery roadmap required immediately."
+    }
+  ]
+}
